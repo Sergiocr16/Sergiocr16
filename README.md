@@ -1,4 +1,4 @@
-## Hi, I'm Sergio Castro 👋
+## Hi, I'm Sergio 👋
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
